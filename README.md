@@ -57,6 +57,8 @@
   <a href="https://marcelolopezcastro.carrd.co/" target="_blank">🌐 Portfolio</a>
 </h3>
 
+-----
+
 <h2 align="center">  
   📫 <strong>How to reach me?</strong> 
 </h2> 
