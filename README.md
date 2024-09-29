@@ -55,7 +55,7 @@
 <h3 align="center">📂 Here you can see my Resume and Portfolio:</h3>
 
 <h3 align="center">
-  <a href="https://www.linkedin.com/in/marceloflopez/" target="_blank">📄 Resume</a> | 
+  <a href="https://drive.google.com/file/d/1Mb7iQJ66oSHA2bCEYHm_UgVp7fRRtz2l/view?usp=sharing" target="_blank">📄 Resume</a> | 
   <a href="https://marcelolopezcastro.carrd.co/" target="_blank">🌐 Portfolio</a>
 </h3>
 
